@@ -1,6 +1,11 @@
 #include <iostream>
 
 int main(){
-	std::cout << "Hello World!" << std::endl;
+	int a, b;
+	
+	a = 1;
+	b = 2;
+	
+	std::cout << a + b << std::endl;
 	
 }
